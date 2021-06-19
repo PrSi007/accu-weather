@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/accu-weather/static/css/main.a93b06d5.chunk.css",
+    "main.js": "/accu-weather/static/js/main.08e8ad00.chunk.js",
+    "main.js.map": "/accu-weather/static/js/main.08e8ad00.chunk.js.map",
+    "runtime-main.js": "/accu-weather/static/js/runtime-main.a525fbb0.js",
+    "runtime-main.js.map": "/accu-weather/static/js/runtime-main.a525fbb0.js.map",
+    "static/css/2.22c14bc5.chunk.css": "/accu-weather/static/css/2.22c14bc5.chunk.css",
+    "static/js/2.9330555d.chunk.js": "/accu-weather/static/js/2.9330555d.chunk.js",
+    "static/js/2.9330555d.chunk.js.map": "/accu-weather/static/js/2.9330555d.chunk.js.map",
+    "static/js/3.b55b1f39.chunk.js": "/accu-weather/static/js/3.b55b1f39.chunk.js",
+    "static/js/3.b55b1f39.chunk.js.map": "/accu-weather/static/js/3.b55b1f39.chunk.js.map",
+    "index.html": "/accu-weather/index.html",
+    "static/css/2.22c14bc5.chunk.css.map": "/accu-weather/static/css/2.22c14bc5.chunk.css.map",
+    "static/css/main.a93b06d5.chunk.css.map": "/accu-weather/static/css/main.a93b06d5.chunk.css.map",
+    "static/js/2.9330555d.chunk.js.LICENSE.txt": "/accu-weather/static/js/2.9330555d.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/accu-weather/static/media/back.096fd27d.jpg",
+    "static/media/weather-icons.css": "/accu-weather/static/media/weathericons-regular-webfont.e218aee6.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a525fbb0.js",
+    "static/css/2.22c14bc5.chunk.css",
+    "static/js/2.9330555d.chunk.js",
+    "static/css/main.a93b06d5.chunk.css",
+    "static/js/main.08e8ad00.chunk.js"
+  ]
+}
