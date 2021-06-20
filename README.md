@@ -21,7 +21,7 @@ Weather is something that never remains constant. Getting to know precise weathe
 
 ## Have a Look 
 
-<a src="https://prsi007.github.io/accu-weather">accu-weather.com</a>
+https://prsi007.github.io/accu-weather
 
 ## Credits 
 
